@@ -1,0 +1,14 @@
+body{
+    background: url(./wp6347340-telecharger-mortal-kombat-android-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+    .her{
+        display: flex;
+        justify-content: space-around;
+        padding: 30px;
+}
+
+.reg-frm{
+    text-align: center;
+}
